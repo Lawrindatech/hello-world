@@ -9,7 +9,7 @@ int main(){
         sum += marks[i]; // Accumulate the sum
     }
 
-    printf("Total marks = %d\n", sum); // Print the total sum
+    printf("Your total marks = %d\n", sum); // Print the total sum
     int average = sum/5;
      printf("Average marks = %d\n",average);
 
