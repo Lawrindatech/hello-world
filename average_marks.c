@@ -12,7 +12,7 @@ int main(){
     printf("Your total marks = %d\n", sum); // Print the total sum
     int average = sum/5;
      printf("Average marks = %d\n",average);
-     printf("Congratulations, you passed");
+     printf("Congratulations, you passed, well done");
 
     return 0;
 }
